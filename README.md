@@ -15,3 +15,11 @@ Antes de rodar o código, instale as dependências necessárias:
 
 ```bash
 pip install numpy matplotlib scikit-learn
+
+```
+## Como Rodar
+- Clone este repositório ou baixe os arquivos.
+- Coloque o script evolucao_salarial.py na raiz do seu projeto.
+- Execute o script Python:
+```bash
+- python evolucao_salarial.py
